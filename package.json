@@ -4,7 +4,7 @@
   "author": "Sebastian",
   "version": "0.1.0",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^4.18.2",
     "node-red-node-arduino": "^0.3.1",
     "serialport": "^8.0.6",
     "socket.io": "^2.3.0"
